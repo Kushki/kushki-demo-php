@@ -1,0 +1,12 @@
+{
+    "name": "zerocooljs/zerocooljs",
+    "require": {
+        "kushki/kushki-php": "1.2.*"
+    },
+    "authors": [
+        {
+            "name": "joseSantacruz",
+            "email": "jose@kushkipagos.com"
+        }
+    ]
+}
